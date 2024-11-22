@@ -5,5 +5,12 @@ const person = {
   };
   
 for (const key in person) {
-console.log(`${key}: ${person[key]}`);
+    console.log(`${key}: ${person[key]}`);
 }
+
+console.log(typeof person === 'array');
+
+
+
+
+

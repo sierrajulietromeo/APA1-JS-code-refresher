@@ -4,3 +4,5 @@ function greet(name) {
 
 greet("Alice");
 greet("Bob"); 
+
+const var1 = greet("Steve");

@@ -16,3 +16,6 @@ console.log(person1["age"]); // Output: 30 - bracket notation
 
 const propertyName = "firstName";
 console.log(person1[propertyName]); // Output: Alice
+
+person1.shoeSize = 7;
+
