@@ -2,15 +2,15 @@
 A collection of JavaScript examples covering fundamental programming concepts.
 ## Concepts Covered
 
-1. Variables and Operations ([1.js](./1.js)) - Variable manipulation and arithmetic
-2. Basic Arithmetic ([2.js](./2.js)) - Number operations
-3. Temperature Check ([3.js](./3.js)) - Conditional statements
-4. Basic Logic ([4.js](./4.js)) - Logic operations
-5. Grade Calculator ([5.js](./5.js)) - Ternary operators
-6. Day Checker ([6.js](./6.js)) - Switch statements
-7. Time Greeter ([7.js](./7.js)) - Time-based conditionals
-8. Loop Examples ([8.js](./8.js)) - Basic loops
-9. Array Operations ([9.js](./9.js)) - Array manipulation
+1. Variables and Operations ([01.js](./01.js)) - Variable manipulation and arithmetic
+2. Basic Arithmetic ([02.js](./02.js)) - Number operations
+3. Temperature Check ([03.js](./03.js)) - Conditional statements
+4. Basic Logic ([04.js](./04.js)) - Logic operations
+5. Grade Calculator ([05.js](./05.js)) - Ternary operators
+6. Day Checker ([06.js](./06.js)) - Switch statements
+7. Time Greeter ([07.js](./07.js)) - Time-based conditionals
+8. Loop Examples ([08.js](./08.js)) - Basic loops
+9. Array Operations ([09.js](./09.js)) - Array manipulation
 10. Object Properties ([10.js](./10.js)) - Object iteration
 11. Function Basics ([11.js](./11.js)) - Basic functions
 12. Addition Function ([12.js](./12.js)) - Return values
